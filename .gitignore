@@ -1,0 +1,4 @@
+
+ZSH_DISABLE_COMPFIX=true
+.ipynb_checkpoints
+.DS_Store
